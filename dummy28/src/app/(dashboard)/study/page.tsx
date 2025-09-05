@@ -45,7 +45,7 @@ export default function FloorStudies() {
               color: 'primary.contrastText',
               p: 2,
               textAlign: 'center', }}>
-              menu informativo
+              Menu informativo
               <Grid size={12}>
 
                 <Box sx={{ bgcolor: 'white',
@@ -99,7 +99,7 @@ export default function FloorStudies() {
               p: 2,
               textAlign: 'center',}}>
                  Mapa
-                 <RasterMap />
+                <RasterMap />
             </Box>
         </Grid>
         )}
